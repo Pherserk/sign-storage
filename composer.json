@@ -1,5 +1,6 @@
 {
     "name": "pherserk/sign-storage",
+    "license": "GPL-3.0",
     "require": {
         "php": ">=7.0",
         "pherserk/sign": "dev-master"	   
